@@ -1,0 +1,30 @@
+﻿<Window x:Class="AStarGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AStarGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <GroupBox Header="Choose mode">
+                <StackPanel>
+                    <RadioButton Content="Building mode" x:Name="BuildRadioButton" Margin="5"/>
+                    <RadioButton Content="Game mode" x:Name="GameRadioButton" Margin="5"/>
+                </StackPanel>
+            </GroupBox>
+            <Button Content="Clear" Click="ClearClick"/>
+        </StackPanel>
+        <Canvas Grid.Column="1"
+                Background="AliceBlue"
+                MouseLeftButtonDown="MouseDownEvent"
+                MouseLeftButtonUp="MouseUpEvent"
+                MouseMove="MouseMoveEvent"
+                x:Name="canvas"/>
+    </Grid>
+</Window>

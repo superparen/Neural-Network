@@ -1,0 +1,15 @@
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\bin\Debug\AStarGame.exe.config
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\bin\Debug\AStarGame.exe
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\bin\Debug\AStarGame.pdb
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.csprojAssemblyReference.cache
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\MainWindow.g.cs
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\App.g.cs
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame_MarkupCompile.cache
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame_MarkupCompile.lref
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\MainWindow.baml
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.g.resources
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.Properties.Resources.resources
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.csproj.GenerateResource.cache
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.csproj.CoreCompileInputs.cache
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.exe
+D:\Kovalchuk\govnoTest\AStarGame\AStarGame\obj\Debug\AStarGame.pdb
